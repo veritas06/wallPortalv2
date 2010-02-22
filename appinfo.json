@@ -1,0 +1,31 @@
+{
+	"id": "com.v3ritas.wallportalv2",
+	"version": "0.5.1",
+	"vendor": "v3ritas",
+	"type": "web",
+	"theme":"dark",
+	"main": "index.html",
+	"title": "wallPortalv2",
+	"icon": "icon.png",
+	"smallicon": "icon32x32.png",
+	
+	"support": {
+		"url": "http://forums.precentral.net/homebrew-apps/220197-wallportal-wallpapers-application.html",
+		"email": {
+			"address": "v3ritasDev@gmail.com",
+			"subject": ": Support",
+		},
+		"resources": [
+			{
+				"type": "scene",
+				"label": "Help Topics",
+				"sceneName": "topics"
+			},
+			{
+				"type": "web",
+				"label": "PreCentral Release Thread",
+				"url": "http://www.precentral.net/homebrew-apps/wallportal"
+			}
+		]
+	}
+}

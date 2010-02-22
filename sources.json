@@ -1,0 +1,113 @@
+[
+    {
+        "source": "app/assistants/stage-assistant.js"
+    }, 
+    {
+        "source": "app/views/main/main-chrome.js", 
+        "scenes": "main"
+    }, 
+    {
+        "source": "app/assistants/main-assistant.js", 
+        "scenes": "main"
+    }, 
+    {
+        "source": "app/assistants/PixiBingResults-assistant.js", 
+        "scenes": "PixiBingResults"
+    }, 
+    {
+        "source": "app/views/PixiBingResults/PixiBingResults-chrome.js", 
+        "scenes": "PixiBingResults"
+    }, 
+    {
+        "source": "app/views/PixiBingResults/PixiBingResults-chrome.js", 
+        "scenes": "PixiBingResults"
+    }, 
+    {
+        "source": "app/assistants/PixiGoogleResults-assistant.js", 
+        "scenes": "PixiGoogleResults"
+    }, 
+    {
+        "source": "app/views/PixiGoogleResults/PixiGoogleResults-chrome.js", 
+        "scenes": "PixiGoogleResults"
+    }, 
+    {
+        "source": "app/assistants/PrePreWallpapersResults-assistant.js", 
+        "scenes": "PrePreWallpapersResults"
+    }, 
+    {
+        "source": "app/views/PrePreWallpapersResults/PrePreWallpapersResults-chrome.js", 
+        "scenes": "PrePreWallpapersResults"
+    }, 
+    {
+        "source": "app/assistants/PreBingResults-assistant.js", 
+        "scenes": "PreBingResults"
+    }, 
+    {
+        "source": "app/views/PreBingResults/PreBingResults-chrome.js", 
+        "scenes": "PreBingResults"
+    }, 
+    {
+        "source": "app/assistants/PreFlickriPhoneResults-assistant.js", 
+        "scenes": "PreFlickriPhoneResults"
+    }, 
+    {
+        "source": "app/views/PreFlickriPhoneResults/PreFlickriPhoneResults-chrome.js", 
+        "scenes": "PreFlickriPhoneResults"
+    }, 
+    {
+        "source": "app/assistants/PreFlickrPreResults-assistant.js", 
+        "scenes": "PreFlickrPreResults"
+    }, 
+    {
+        "source": "app/views/PreFlickrPreResults/PreFlickrPreResults-chrome.js", 
+        "scenes": "PreFlickrPreResults"
+    }, 
+    {
+        "source": "app/assistants/PreGoogleResults-assistant.js", 
+        "scenes": "PreGoogleResults"
+    }, 
+    {
+        "source": "app/views/PreGoogleResults/PreGoogleResults-chrome.js", 
+        "scenes": "PreGoogleResults"
+    }, 
+    {
+        "source": "app/assistants/FS4scrapeResults-assistant.js", 
+        "scenes": "FS4scrapeResults"
+    }, 
+    {
+        "source": "app/views/FS4scrapeResults/FS4scrapeResults-chrome.js", 
+        "scenes": "FS4scrapeResults"
+    }, 
+    {
+        "source": "app/assistants/FS4walledResults-assistant.js", 
+        "scenes": "FS4walledResults"
+    }, 
+    {
+        "source": "app/views/FS4walledResults/FS4walledResults-chrome.js", 
+        "scenes": "FS4walledResults"
+    }, 
+    {
+        "source": "app/assistants/FSwallbaseResults-assistant.js", 
+        "scenes": "FSwallbaseResults"
+    }, 
+    {
+        "source": "app/views/FSwallbaseResults/FSwallbaseResults-chrome.js", 
+        "scenes": "FSwallbaseResults"
+    }, 
+    {
+        "source": "app/assistants/PixiFlickrResults-assistant.js", 
+        "scenes": "PixiFlickrResults"
+    }, 
+    {
+        "source": "app/views/PixiFlickrResults/PixiFlickrResults-chrome.js", 
+        "scenes": "PixiFlickrResults"
+    }, 
+    {
+        "source": "app/assistants/contactMe-assistant.js", 
+        "scenes": "contactMe"
+    }, 
+    {
+        "source": "app/views/contactMe/contactMe-chrome.js", 
+        "scenes": "contactMe"
+    }
+]
